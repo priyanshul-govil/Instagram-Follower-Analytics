@@ -35,7 +35,7 @@ Clone this repository to your local machine or download the repository as a `zip
 	
 <li>
 	
-Initially both these files will be empty. In case you wish to utilise them, go ahead and add the `username` of each of the required users in a separate line. Save the file now.
+Initially both these files will be empty. In case you wish to utilise them, go ahead and add the `username` of each of the required users in a separate line. Save the files now.
 
 <li>
 	
@@ -52,6 +52,8 @@ Well, there are two ways:
 2. Use command-line arguments. Run the script using `python main.py [username] [password]`.
 
 Note, you do not need to make any changes to `script_class.py`. Leave the remotely-controlled browser window open, and let it work in peace :wink:
+
+**In case the script isn't able to login to Instagram (generally happens for the first time), head over to your Instagram app. You might have received a security alert. Resolve that by confirming that the sign-in attempt was you. Run the script again, it should work.**
 
 ## OUTPUT
 
