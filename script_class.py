@@ -44,7 +44,7 @@ class InstagramUnfollower:
                 time.sleep(0.5)
             
             except StaleElementReferenceException:
-                pass
+                break
         
         time.sleep(2)
         return driver
