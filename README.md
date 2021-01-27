@@ -27,7 +27,7 @@ There are quite some terms I have used. Although, they are pretty intuitive, her
 
 ## USAGE
 
-Clone this repository to your local machine or download `zip` and unzip it. Navigate to the root directory.
+Clone this repository to your local machine or download the repository as a `zip` folder and unzip it. Navigate to the root directory.
 
 
 #### &emsp;Dealing with `whitelist.txt` and `blacklist.txt`
