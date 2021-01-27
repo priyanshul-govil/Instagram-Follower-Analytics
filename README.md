@@ -1,6 +1,6 @@
 # Instagram Follower Analytics
 
-Since the change of the Instagram API, many Follower Insight apps have stopped working. This is an attempt to create a web scraping script that scrapes your Instagram account for *follower* and *following* details, and generates data as a `CSV`. Additionally, it outputs details of **users who don't follow you back** to the terminal so that you can easily unfollow them.
+Since the change of the Instagram API, many Follower Insight apps have stopped working. This is an attempt to create a web scraping script that scrapes your Instagram account for *follower* and *following* details, and generates data as a `CSV` file. Additionally, it outputs details of **users who don't follow you back** to the terminal so that you can easily unfollow them.
 
 
 ## DEPENDENCIES
