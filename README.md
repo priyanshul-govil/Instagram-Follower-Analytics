@@ -33,7 +33,9 @@ Clone this repository to your local machine or download the repository as a `zip
 #### &emsp;Dealing with `whitelist.txt` and `blacklist.txt`
 <ul>
 	
-<li>Initially both these files will be empty. In case you wish to utilise theM, go ahead and add the `username` of each of the required users in a separate line. Save the file now.
+<li>
+	
+Initially both these files will be empty. In case you wish to utilise them, go ahead and add the `username` of each of the required users in a separate line. Save the file now.
 
 <li>
 	
@@ -49,7 +51,7 @@ Well, there are two ways:
 
 2. Use command-line arguments. Run the script using `python main.py [username] [password]`.
 
-Note, you do not need to make any changes to `script_class.py`. Leave the remotely-controlled browser window open, and let it work in peace ;)
+Note, you do not need to make any changes to `script_class.py`. Leave the remotely-controlled browser window open, and let it work in peace :wink:
 
 ## OUTPUT
 
